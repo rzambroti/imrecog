@@ -1,4 +1,4 @@
-# Gabarito Corretor
+# Corretor de Gabarito
 
 Este é um projeto Python em desenvolvimento com o objetivo de criar um software capaz de **identificar automaticamente as respostas marcadas por alunos em gabaritos físicos preenchidos à mão**.
 
